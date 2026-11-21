@@ -6,6 +6,20 @@
 **Current release state:** local-only source commit and annotated `v1.0.0` tag; no push or GitHub release publication has occurred  
 **Related original release:** `abhishek00710/explainable-offers-research`, tag `v1.0.0`, source commit `ca33e4c59510dd632482b8a5bfa2512af67e3d3f`
 
+## Post-approval publication status
+
+This addendum records the later publication outcome; the pre-approval audit snapshot below is retained as historical evidence. After the author's explicit approval, the repository was made public and the prepared `main` branch and annotated `v1.0.0` tag were pushed.
+
+- Public repository: <https://github.com/abhishek00710/explainable-offers-external-evaluation>
+- Initial public-release commit (also the `v1.0.0` target): `0c4554c91928891b9e0f6a0274b1a83901bdda79`
+- `v1.0.0` points to that same commit: `0c4554c91928891b9e0f6a0274b1a83901bdda79`
+- Tag message: “External MoneyData evaluation supplement; reproducible aggregate results and negative findings.”
+- No GitHub Release page was created; the versioned Git tag is available at <https://github.com/abhishek00710/explainable-offers-external-evaluation/tree/v1.0.0>.
+- The original `abhishek00710/explainable-offers-research` repository and its `v1.0.0` tag were not modified.
+
+The checks and measurements in this report describe the frozen supplement package. The publication action changed repository visibility and uploaded the prepared commit/tag; it did not rerun or alter the evaluation.
+
+
 ## Completed checks
 
 | Check | Result | Evidence |
