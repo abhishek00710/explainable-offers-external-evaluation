@@ -1,0 +1,8 @@
+Fresh-checkout reproduction environment
+Apple Swift version 6.4.2 (swiftlang-6.4.2.1.9 clang-2100.4.1.1)
+Target: arm64-apple-macosx27.2.0
+macOS 27.2.1
+Architecture arm64
+Python 3.9.6
+openpyxl 3.1.5
+et-xmlfile 2.0.0

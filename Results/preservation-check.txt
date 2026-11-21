@@ -1,0 +1,7 @@
+Preservation verification (read-only checks; no source files changed)
+
+- results/sha256-manifest.json: 46/46 manifest entries match.
+- Validation/sha256-manifest.json: 62/62 manifest entries match.
+- Copied OfferCore policy files: 6/6 byte-identical to audited public release.
+- The v1.0.0 release and submitted-manuscript candidate were not modified by this external evaluation work.
+- Verification scope is the two artifact manifests listed above and the six copied OfferCore implementation files; it is not a cryptographic attestation of unrelated workspace files.

@@ -1,0 +1,49 @@
+{
+  "source_release_copy": "ExplainableOffers-Public/artifact/Validation/Sources/OfferCore",
+  "policy_files": [
+    {
+      "source_relative": "artifact/Validation/Sources/OfferCore/Classifier.swift",
+      "copy_relative": "Sources/OfferCore/Classifier.swift",
+      "source_sha256": "8c356b36c9c869f3212f0e10b42f8422bdcd21e09c28259068ecd5c170fbdfce",
+      "copy_sha256": "8c356b36c9c869f3212f0e10b42f8422bdcd21e09c28259068ecd5c170fbdfce",
+      "byte_identical": true
+    },
+    {
+      "source_relative": "artifact/Validation/Sources/OfferCore/ConflictAware.swift",
+      "copy_relative": "Sources/OfferCore/ConflictAware.swift",
+      "source_sha256": "6412ccd97bc292ff2180db70db3bdf899f54fc5e3496d966d48295f537b77eee",
+      "copy_sha256": "6412ccd97bc292ff2180db70db3bdf899f54fc5e3496d966d48295f537b77eee",
+      "byte_identical": true
+    },
+    {
+      "source_relative": "artifact/Validation/Sources/OfferCore/Models.swift",
+      "copy_relative": "Sources/OfferCore/Models.swift",
+      "source_sha256": "6f25fb51e50e561649477c8e19bdcad9258ac06d45e99a27182e999ffc07611b",
+      "copy_sha256": "6f25fb51e50e561649477c8e19bdcad9258ac06d45e99a27182e999ffc07611b",
+      "byte_identical": true
+    },
+    {
+      "source_relative": "artifact/Validation/Sources/OfferCore/Profile.swift",
+      "copy_relative": "Sources/OfferCore/Profile.swift",
+      "source_sha256": "bebe847d472c049bd3f14ac7bc0b29d533fbd6d5770ec9268b7394c67c7daebe",
+      "copy_sha256": "bebe847d472c049bd3f14ac7bc0b29d533fbd6d5770ec9268b7394c67c7daebe",
+      "byte_identical": true
+    },
+    {
+      "source_relative": "artifact/Validation/Sources/OfferCore/Ranking.swift",
+      "copy_relative": "Sources/OfferCore/Ranking.swift",
+      "source_sha256": "ea264134607001fded4d6aba4e273322e1e3d682bfd3f9469987a37fe7ea3a0c",
+      "copy_sha256": "ea264134607001fded4d6aba4e273322e1e3d682bfd3f9469987a37fe7ea3a0c",
+      "byte_identical": true
+    },
+    {
+      "source_relative": "artifact/Validation/Sources/OfferCore/Tokenizer.swift",
+      "copy_relative": "Sources/OfferCore/Tokenizer.swift",
+      "source_sha256": "95f5071c2ae556564754b1f6901dc171ac1c80fb2dbff54e7480a1f7b2f8f65d",
+      "copy_sha256": "95f5071c2ae556564754b1f6901dc171ac1c80fb2dbff54e7480a1f7b2f8f65d",
+      "byte_identical": true
+    }
+  ],
+  "all_copied_policy_files_byte_identical": true,
+  "metadata_token_combined_and_conflict_implementations_unchanged": true
+}

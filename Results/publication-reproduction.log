@@ -1,0 +1,49 @@
+original_source_tag=v1.0.0
+original_source_commit=ca33e4c59510dd632482b8a5bfa2512af67e3d3f
+Original v1.0.0 classifier source comparison: PASS (6 files byte-identical).
+Prepared mapped external evaluation input.
+rows_with_description_and_category=6543
+rows_missing_description_or_category=1771
+overlap_authored_case_count=1
+overlap_rows_excluded=2
+mapped_rows_after_overlap_exclusion=3224
+mapped_unique_normalized_descriptions=564
+mapped_unanimous_description_cases=563
+mapped_ambiguous_description_cases_excluded_from_case_level=1
+mapped_gold_counts={"dining": 446, "groceries": 492, "shopping": 1566, "transport": 246, "utilities": 474}
+Building for production...
+[Pre-planning 1 / 65]
+[Planning deferred tasks]
+[22 / 34]
+[23 / 35] OfferCore
+[32 / 71]
+[36 / 71]
+[39 / 71]
+[41 / 71]
+[43 / 71]
+[46 / 71]
+[47 / 71]
+[49 / 71]
+[50 / 71]
+[52 / 71]
+[55 / 71]
+[57 / 71]
+[58 / 71]
+[60 / 71] OfferCore
+[67 / 72] external-evaluation-product
+[69 / 73] external-evaluation-product
+[71 / 73] external-evaluation-product
+[72 / 73] external-evaluation-product
+Build complete! (10.11 sec)
+evaluated_rows=3224
+unique_unanimous_descriptions=563
+policies=metadata,tokens,combined,conflict_abstain
+rows_and_unique_description_metrics_written_without_raw_descriptions=true
+Independent audit: PASS
+Recomputed confusion totals and all-record accuracy from exported counts.
+Recomputed per-class TP/FP/FN, precision, recall, F1, support and arithmetic macro-F1.
+Verified coverage, abstention, classified-only accuracy and denominators; zero-classification conditional accuracy is NA.
+Verified metadata-only is unknown for all records when metadata is absent.
+Verified combined and conflict-abstention equal token-only under this metadata-free input.
+Rows checked: confusion=240, summaries=8, per-class=40.
+No per-transaction descriptions or predictions are exported.

@@ -1,0 +1,15 @@
+.build/
+.swiftpm/
+.DS_Store
+*.xcuserstate
+
+# Never check in the licensed source workbook or temporary row-level mappings.
+*.xlsx
+*.xls
+*.tsv
+*.parquet
+*.zip
+
+# The project stores aggregate-only CSV results; do not add row-level outputs.
+*predictions*.csv
+*transactions*.csv

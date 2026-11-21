@@ -1,0 +1,5 @@
+Publication disclosure scan
+Files inventoried: 36
+UTF-8 text files scanned: 36
+Checks: personal home paths, credential-like patterns, email addresses, unreviewed URLs, and raw dataset/row-export file extensions.
+Status: PASS; no matching disclosure patterns or source-data/row-export files found.

@@ -1,0 +1,8 @@
+Independent audit: PASS
+Recomputed confusion totals and all-record accuracy from exported counts.
+Recomputed per-class TP/FP/FN, precision, recall, F1, support and arithmetic macro-F1.
+Verified coverage, abstention, classified-only accuracy and denominators; zero-classification conditional accuracy is NA.
+Verified metadata-only is unknown for all records when metadata is absent.
+Verified combined and conflict-abstention equal token-only under this metadata-free input.
+Rows checked: confusion=240, summaries=8, per-class=40.
+No per-transaction descriptions or predictions are exported.
